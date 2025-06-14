@@ -60,7 +60,7 @@ SELECT COUNT(DISTINCT order_id) AS Total_Orders FROM pizza_sales;
 SELECT CAST(SUM(quantity) AS DECIMAL(10,2)) / CAST(COUNT(DISTINCT order_id) AS DECIMAL(10,2)) AS Avg_Pizzas_per_order
 FROM pizza_sales;
 ```
-🗂️ Additional queries for trends, category-wise sales, and filtering by time (month, quarter) are available in the project files.
+🗂️ Additional queries for trends, category-wise sales, and filtering by time (month, quarter) are available in the project files [**here**](https://github.com/ozaairrr/pizza-sales-dashboard-excel-sql/blob/b74646f706eb3d4046e84e8c2726ad7cfe623c44/SQL/sql_quries_pizza_sales.pdf).
 
 ## 🧰 **Tools Used**
 
