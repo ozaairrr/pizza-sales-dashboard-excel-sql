@@ -58,10 +58,10 @@ FROM pizza_sales;
 🗂️ Additional queries for trends, category-wise sales, and filtering by time (month, quarter) are available in the project files.
 
 ## Tools Used
-Excel for data cleaning, processing, pivot tables, and dashboards
-SQL Server for querying and validating KPIs
-Excel Charts for visualization (bar, line, pie, funnel)
-PivotTables for aggregating KPIs
+** Excel for data cleaning, processing, pivot tables, and dashboards
+**SQL Server for querying and validating KPIs
+**Excel Charts for visualization (bar, line, pie, funnel)
+**PivotTables for aggregating KPIs
 
 ## Data Cleaning & Processing
 Replaced pizza size abbreviations (S, M, L, XL, XXL) with readable names (Regular, Medium, Large, etc.)
