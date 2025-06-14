@@ -100,6 +100,8 @@ pizza-sales-dashboard-excel-sql/
 ## 🖼️ **Dashboard Preview**
 
 ![Pizza Sales Dashboard](https://github.com/ozaairrr/pizza-sales-dashboard-excel-sql/raw/61c80c41492e060762ef0a58a9f187ce3dafe95f/Dashboard-Pizza-Sales.png)
+📊 The final Excel dashboard with all KPIs and charts can be found [**here**](https://github.com/ozaairrr/pizza-sales-dashboard-excel-sql/blob/1b1f3bb677602f35f8a1eb7114e2a4e63e424b14/Dashboard/Pizza_Sales_Dashboard.xlsx).
+
 
 ## ✅ **Conclusion**
 This project showcases how combining Excel's powerful data analysis features with SQL's precision querying can generate actionable business insights. From raw data cleaning to dashboard creation, each step was designed to mimic real-world BI workflows. The outcome is a scalable, beginner-friendly analytics solution that highlights key sales patterns, identifies performance gaps, and enables data-driven decision-making. Whether you're exploring your first data project or building a business case, this dashboard demonstrates the value of blending tools for end-to-end analytics.
