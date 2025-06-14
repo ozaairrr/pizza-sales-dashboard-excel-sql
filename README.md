@@ -90,13 +90,15 @@ pizza-sales-dashboard-excel-sql/
 
 ## 🧠 **Insights Gained**
 
--📈 Order Timing: Majority of orders are placed between 6 PM to 9 PM, with Friday and Saturday being the busiest days.
--🍕 Top-Selling Items: Classic Pepperoni and BBQ Chicken pizzas contribute to over 25% of total revenue.
--📊 Category Impact: Meat and Supreme categories generate the most revenue, while Veggie pizzas have lower sales overall.
--📦 Size Distribution: Large and Extra Large pizzas account for the highest quantity sold, indicating customer preference for value sizes.
--🧊 Underperforming Items: Certain specialty pizzas like Spinach Alfredo consistently perform below average in both quantity and revenue.
+- 📈 **Order Timing**: Most orders are placed between **6 PM to 9 PM**, with a noticeable peak on **Fridays and Saturdays**.  
+- 🍕 **Top-Selling Pizzas**: **Classic Pepperoni** and **BBQ Chicken** contribute over **25% of revenue**.  
+- 🧩 **Category Performance**: **Meat** and **Supreme** categories dominate in revenue, while **Veggie** pizzas lag behind.  
+- 📦 **Size Preferences**: **Large** and **Extra Large** pizzas are most frequently ordered, showing a demand for value portions.  
+- ❄️ **Underperformers**: Items like **Spinach Alfredo** consistently show low sales across all time periods.  
 
-## 🖼️ **Dashboard Preview**
+🖼️ **Dashboard Preview**
+
+![Pizza Sales Dashboard](https://github.com/ozaairrr/pizza-sales-dashboard-excel-sql/raw/61c80c41492e060762ef0a58a9f187ce3dafe95f/Dashboard-Pizza-Sales.png)
 
 ## ✅ **Conclusion**
 
