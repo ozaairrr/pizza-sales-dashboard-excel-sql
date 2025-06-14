@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/ozaairrr/pizza-sales-dashboard-excel-sql/blob/main/Dashboard-Pizza-Sales.png?raw=true" alt="Pizza Sales Dashboard" width="800">
+</p>
+<p align="center"><i>📊 Dashboard showcasing key pizza sales KPIs and trends</i></p>
+
 # 🍕 Pizza Sales Dashboard (Excel + SQL)
 
 A complete Excel-based data analysis and visualization project with SQL validation using a 48,621-row pizza sales dataset. The project focuses on building key business insights and dashboards to monitor pizza sales performance.
