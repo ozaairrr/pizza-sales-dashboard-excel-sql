@@ -57,20 +57,56 @@ FROM pizza_sales;
 ```
 🗂️ Additional queries for trends, category-wise sales, and filtering by time (month, quarter) are available in the project files.
 
-##📌 Tools Used
-Excel for data cleaning, processing, pivot tables, and dashboards
+🧰 **Tools Used**
 
-SQL Server for querying and validating KPIs
+- Excel for data cleaning, processing, pivot tables, and dashboards  
+- SQL Server for querying and validating KPIs  
+- Excel Charts for visualization (bar, line, pie, funnel)  
+- Functions Used in Excel:  
+  - `=TEXT()` for extracting weekday  
+  - `=COUNTIF()` for deduplicating orders  
+- PivotTables for aggregating KPIs  
 
-Excel Charts for visualization (bar, line, pie, funnel)
+🧹 **Data Cleaning & Processing**
 
-PivotTables for aggregating KPIs
+- Replaced pizza size abbreviations (`S`, `M`, `L`, `XL`, `XXL`) with readable names (`Regular`, `Medium`, `Large`, etc.)  
+- Created new column `order_day` using `=TEXT(order_date, "dddd")`  
+- Generated a unique `count_order` logic using:  
+  `=1 / COUNTIF(range, cell)` → to avoid duplicate order count  
+- Final data was used in pivot tables for KPI calculations and visual charts  
 
-##🧹 Data Cleaning & Processing
-Replaced pizza size abbreviations (S, M, L, XL, XXL) with readable names (Regular, Medium, Large, etc.)
+📁 **Project Structure**
+```
+pizza-sales-dashboard-excel-sql/
+├── data/
+│   ├── pizza_sales_raw.csv
+│   └── pizza_sales_cleaned.xlsx
+├── dashboards/
+│   └── pizza_sales_dashboard.png
+├── sql/
+│   └── pizza_kpi_queries.sql
+├── README.md
+```
 
-Created new column order_day using =TEXT(order_date, "dddd")
+🧠 **Insights Gained**
 
-Generated a unique count_order logic using: =1 / COUNTIF(range, cell) → to avoid duplicate order count
+- Most orders are placed during specific hours of the day and vary across weekdays  
+- Certain pizza categories and sizes drive the majority of revenue  
+- There are clearly top-selling and underperforming pizzas that impact total sales  
 
-Final cleaned data was used in pivot tables for KPI calculations and visual charts
+🖼️ **Dashboard Preview**
+
+✅ **Conclusion**
+
+This project is a great example of combining Excel’s analytical capabilities with SQL logic to produce insightful business dashboards.  
+It's scalable for beginner-to-intermediate analytics tasks and demonstrates core BI concepts clearly.
+
+🔗 **Dataset**
+
+- **Size**: 48,621 rows  
+- **Type**: Simulated pizza sales data (sourced via YouTube tutorial)  
+- **Includes**: order date, order time, quantity, price, pizza type, category, and size  
+
+📬 **Contact**
+
+For questions or suggestions, feel free to open an issue or reach out.
