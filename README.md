@@ -121,4 +121,5 @@ This project showcases how combining Excel's powerful data analysis features wit
 
 📬 **Contact**
 
-For questions or suggestions, feel free to open an issue or reach out.
+For questions or suggestions, feel free to open an issue or reach out:
+📧 **mohammadozairshaikh [at] gmail [dot] com**
