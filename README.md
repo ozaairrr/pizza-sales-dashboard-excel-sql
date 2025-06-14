@@ -96,7 +96,7 @@ pizza-sales-dashboard-excel-sql/
 - 📦 **Size Preferences**: **Large** and **Extra Large** pizzas are most frequently ordered, showing a demand for value portions.  
 - ❄️ **Underperformers**: Items like **Spinach Alfredo** consistently show low sales across all time periods.  
 
-🖼️ **Dashboard Preview**
+## 🖼️ **Dashboard Preview**
 
 ![Pizza Sales Dashboard](https://github.com/ozaairrr/pizza-sales-dashboard-excel-sql/raw/61c80c41492e060762ef0a58a9f187ce3dafe95f/Dashboard-Pizza-Sales.png)
 
@@ -108,8 +108,9 @@ It's scalable for beginner-to-intermediate analytics tasks and demonstrates core
 ## 🔗 **Dataset**
 
 - **Size**: 48,621 rows  
-- **Type**: Simulated pizza sales data (sourced via YouTube tutorial)  
-- **Includes**: order date, order time, quantity, price, pizza type, category, and size  
+- **Type**: Simulated pizza sales data 
+- **Includes**: pizza_id	order_id	total_order	pizza_name_id	quantity	order_date	order_day	order_time	unit_price	total_price	pizza_size	pizza_category	pizza_ingredients	pizza_name
+- **[Download Dataset](https://github.com/ozaairrr/pizza-sales-dashboard-excel-sql/raw/a5f3253af85bc2d898f0c4e17c9b98c8daec703f/Datasets/processed_pizza_sales_dataset.xlsx)**  
 
 📬 **Contact**
 
