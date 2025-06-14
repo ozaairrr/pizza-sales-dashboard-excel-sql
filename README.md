@@ -90,7 +90,7 @@ pizza-sales-dashboard-excel-sql/
 
 ## 🧠 **Insights Gained**
 
-- 📈 **Order Timing**: Most orders are placed between **6 PM to 9 PM**, with a noticeable peak on **Fridays and Saturdays**.  
+- 📈 **Order Timing**: Most orders are placed between **12PM to 1PM & 4PM to 8PM**, with a noticeable peak on **Fridays and Saturdays**.  
 - 🍕 **Top-Selling Pizzas**: **Classic Pepperoni** and **BBQ Chicken** contribute over **25% of revenue**.  
 - 🧩 **Category Performance**: **Meat** and **Supreme** categories dominate in revenue, while **Veggie** pizzas lag behind.  
 - 📦 **Size Preferences**: **Large** and **Extra Large** pizzas are most frequently ordered, showing a demand for value portions.  
