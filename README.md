@@ -57,7 +57,7 @@ FROM pizza_sales;
 ```
 🗂️ Additional queries for trends, category-wise sales, and filtering by time (month, quarter) are available in the project files.
 
-🧰 **Tools Used**
+## 🧰 **Tools Used**
 
 - Excel for data cleaning, processing, pivot tables, and dashboards  
 - SQL Server for querying and validating KPIs  
@@ -67,7 +67,7 @@ FROM pizza_sales;
   - `=COUNTIF()` for deduplicating orders  
 - PivotTables for aggregating KPIs  
 
-🧹 **Data Cleaning & Processing**
+## 🧹 **Data Cleaning & Processing**
 
 - Replaced pizza size abbreviations (`S`, `M`, `L`, `XL`, `XXL`) with readable names (`Regular`, `Medium`, `Large`, etc.)  
 - Created new column `order_day` using `=TEXT(order_date, "dddd")`  
@@ -88,20 +88,20 @@ pizza-sales-dashboard-excel-sql/
 ├── README.md
 ```
 
-🧠 **Insights Gained**
+## 🧠 **Insights Gained**
 
 - Most orders are placed during specific hours of the day and vary across weekdays  
 - Certain pizza categories and sizes drive the majority of revenue  
 - There are clearly top-selling and underperforming pizzas that impact total sales  
 
-🖼️ **Dashboard Preview**
+## 🖼️ **Dashboard Preview**
 
-✅ **Conclusion**
+## ✅ **Conclusion**
 
 This project is a great example of combining Excel’s analytical capabilities with SQL logic to produce insightful business dashboards.  
 It's scalable for beginner-to-intermediate analytics tasks and demonstrates core BI concepts clearly.
 
-🔗 **Dataset**
+## 🔗 **Dataset**
 
 - **Size**: 48,621 rows  
 - **Type**: Simulated pizza sales data (sourced via YouTube tutorial)  
