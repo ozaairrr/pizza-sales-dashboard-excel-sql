@@ -90,9 +90,11 @@ pizza-sales-dashboard-excel-sql/
 
 ## 🧠 **Insights Gained**
 
-- Most orders are placed during specific hours of the day and vary across weekdays  
-- Certain pizza categories and sizes drive the majority of revenue  
-- There are clearly top-selling and underperforming pizzas that impact total sales  
+-📈 Order Timing: Majority of orders are placed between 6 PM to 9 PM, with Friday and Saturday being the busiest days.
+-🍕 Top-Selling Items: Classic Pepperoni and BBQ Chicken pizzas contribute to over 25% of total revenue.
+-📊 Category Impact: Meat and Supreme categories generate the most revenue, while Veggie pizzas have lower sales overall.
+-📦 Size Distribution: Large and Extra Large pizzas account for the highest quantity sold, indicating customer preference for value sizes.
+-🧊 Underperforming Items: Certain specialty pizzas like Spinach Alfredo consistently perform below average in both quantity and revenue.
 
 ## 🖼️ **Dashboard Preview**
 
