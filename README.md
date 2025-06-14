@@ -101,7 +101,7 @@ pizza-sales-dashboard-excel-sql/
 
 ![Pizza Sales Dashboard](https://github.com/ozaairrr/pizza-sales-dashboard-excel-sql/raw/61c80c41492e060762ef0a58a9f187ce3dafe95f/Dashboard-Pizza-Sales.png)
 ### 📊 Final Excel Dashboard with KPIs & Charts
-📊 The final Excel dashboard with all KPIs and charts can be found [**here**](https://github.com/ozaairrr/pizza-sales-dashboard-excel-sql/blob/1b1f3bb677602f35f8a1eb7114e2a4e63e424b14/Dashboard/Pizza_Sales_Dashboard.xlsx).
+ The final Excel dashboard with all KPIs and charts can be found [**here**](https://github.com/ozaairrr/pizza-sales-dashboard-excel-sql/blob/1b1f3bb677602f35f8a1eb7114e2a4e63e424b14/Dashboard/Pizza_Sales_Dashboard.xlsx).
 
 
 ## ✅ **Conclusion**
