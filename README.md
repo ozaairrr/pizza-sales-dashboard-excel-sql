@@ -75,7 +75,7 @@ FROM pizza_sales;
   `=1 / COUNTIF(range, cell)` → to avoid duplicate order count  
 - Final data was used in pivot tables for KPI calculations and visual charts  
 
-📁 **Project Structure**
+## 📁 **Project Structure**
 ```
 pizza-sales-dashboard-excel-sql/
 ├── data/
