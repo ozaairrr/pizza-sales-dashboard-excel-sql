@@ -78,10 +78,12 @@ FROM pizza_sales;
 ## 📁 **Project Structure**
 ```
 pizza-sales-dashboard-excel-sql/
-├── datasets/
+├── Datasets/
 │   ├── pizza_sales_raw.csv
 │   └── pizza_sales_cleaned.xlsx
-├── pizza_sales_dashboard.png
+├──Dashboard/
+|   ├── Pizza_Sales_Dashboard_Preview.png
+|   ├── Pizza_Sales_Dashboard.xlsx
 ├── sql/
 │   └── pizza_kpi_queries.sql
 ├── README.md
