@@ -54,7 +54,7 @@ SELECT COUNT(DISTINCT order_id) AS Total_Orders FROM pizza_sales;
 -- Avg Pizzas Per Order
 SELECT CAST(SUM(quantity) AS DECIMAL(10,2)) / CAST(COUNT(DISTINCT order_id) AS DECIMAL(10,2)) AS Avg_Pizzas_per_order
 FROM pizza_sales;
-```sql
+```
 🗂️ Additional queries for trends, category-wise sales, and filtering by time (month, quarter) are available in the project files.
 
 ## Tools Used
