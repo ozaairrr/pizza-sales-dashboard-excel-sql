@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ozaairrr/pizza-sales-dashboard-excel-sql/blob/main/Dashboard-Pizza-Sales.png?raw=true" alt="Pizza Sales Dashboard" width="500">
+  <img src="https://github.com/ozaairrr/pizza-sales-dashboard-excel-sql/blob/a46da886d2a2d965f2982166971cae1bc153b8e7/Dashboard/Pizza_Sales_Dashboard_Preview.png" alt="Pizza Sales Dashboard" width="500">
 </p>
 <p align="center"><i>📊 Dashboard showcasing key pizza sales KPIs and trends</i></p>
 
