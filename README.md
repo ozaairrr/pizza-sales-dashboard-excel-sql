@@ -57,15 +57,20 @@ FROM pizza_sales;
 ```
 🗂️ Additional queries for trends, category-wise sales, and filtering by time (month, quarter) are available in the project files.
 
-## Tools Used
+📌 Tools Used
 Excel for data cleaning, processing, pivot tables, and dashboards
+
 SQL Server for querying and validating KPIs
+
 Excel Charts for visualization (bar, line, pie, funnel)
+
 PivotTables for aggregating KPIs
 
-## Data Cleaning & Processing
+🧹 Data Cleaning & Processing
 Replaced pizza size abbreviations (S, M, L, XL, XXL) with readable names (Regular, Medium, Large, etc.)
-Create new column order_day using =TEXT(order_date, "dddd")
-Generated a unique count_order logic using:
-=1 / COUNTIF(range, cell) → to avoid duplicate order count
-Final data was used in pivot tables for KPI calculations and visual charts
+
+Created new column order_day using =TEXT(order_date, "dddd")
+
+Generated a unique count_order logic using: =1 / COUNTIF(range, cell) → to avoid duplicate order count
+
+Final cleaned data was used in pivot tables for KPI calculations and visual charts
